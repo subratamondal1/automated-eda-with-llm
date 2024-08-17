@@ -1,2 +1,2 @@
 run:
-	poetry run streamlit run src.main
+	poetry run streamlit run src/main.py
